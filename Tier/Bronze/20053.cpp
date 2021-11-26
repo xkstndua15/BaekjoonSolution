@@ -15,8 +15,8 @@ int main()
 
 	while (T--)
 	{
-		int Min = 10000000;
-		int Max = -10000000;
+		int Min = 10000001;
+		int Max = -10000001;
 
 		cin >> N;
 
