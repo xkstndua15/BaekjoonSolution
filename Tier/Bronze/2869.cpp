@@ -6,7 +6,7 @@ int main()
 	int Down = 0;
 	int Goal = 0;
 	int Day = 0;
-	 
+	
 	std::cin >> Up >> Down >> Goal;
 
 	if ((Goal - Up) % (Up - Down) == 0)
