@@ -2,7 +2,7 @@
 
 int main()
 {
-	int Up = 0;
+	int Up = 0; 
 	int Down = 0;
 	int Goal = 0;
 	int Day = 0;
